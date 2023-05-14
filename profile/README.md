@@ -1,4 +1,5 @@
 ## Đoàn - Hội khoa Công nghệ Thông tin - HCMUTE 👋
+[![Views](http://hits.dwyl.com/ITUTE/.github.svg)](http://hits.dwyl.com/ITUTE/.github)
 
 <!--
 
